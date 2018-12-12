@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "custom/wood_raw.vtf"
+	"$translucent" "1"
+}

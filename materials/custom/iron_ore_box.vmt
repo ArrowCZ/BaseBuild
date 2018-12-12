@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "custom/iron_ore_box.vtf"
+	"$translucent" "1"
+}

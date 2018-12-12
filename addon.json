@@ -1,0 +1,6 @@
+{
+"title"	: "BaseBuild",
+"type" : "gamemode",
+"tags" : [ "fun", "build" ],
+"ignore" : [ "*.psd", "*.vcproj", "*.svn*" ]
+}

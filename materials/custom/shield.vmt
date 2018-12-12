@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"custom\shield.vtf"
+	"$translucent" "1"
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"custom\cross.vtf"
+	"$translucent" "1"
+}

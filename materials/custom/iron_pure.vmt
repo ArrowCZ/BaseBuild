@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "custom/iron_pure.vtf"
+	"$translucent" "1"
+}

@@ -1,0 +1,8 @@
+"basebuild"
+{
+	"base"		"base"
+	"title"		"Base Build"
+	"maps"		"^bs_"
+	"menusystem"	"1"
+	"workshopid"	"1349310537"
+}

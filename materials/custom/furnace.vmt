@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "custom/furnace.vtf"
+	"$translucent" "1"
+}
